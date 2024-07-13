@@ -3858,6 +3858,10 @@
     "setuptools",
     "setuptools-scm"
   ],
+  "cocotbb": [
+    "setuptools",
+    "setuptools-scm"
+  ],
   "cocotb-bus": [
     "setuptools"
   ],
